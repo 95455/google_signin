@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:googlesignin/components/settings_page.dart';
+import 'package:googlesignin/screens/settings_page.dart';
 import 'package:provider/provider.dart';
-import 'theme_provider.dart';
+import '../theme_provider.dart';
 
 class DashboardPage extends StatelessWidget {
   final GoogleSignInAccount user;

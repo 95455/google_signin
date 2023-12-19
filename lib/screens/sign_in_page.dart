@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'dashboard_page.dart';
-import 'theme_provider.dart';
+import '../theme_provider.dart';
 import 'package:google_sign_in/google_sign_in.dart'; // Add this line
 
 class SignInPage extends StatefulWidget {

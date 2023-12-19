@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061189615709",
+    "project_id": "auth-286ee",
+    "storage_bucket": "auth-286ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061189615709:android:823d6523f0af72ffb58db4",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDynXOjpobdpwV3wONlicyEbEua6pieg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
